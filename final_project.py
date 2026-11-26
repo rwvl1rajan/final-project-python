@@ -191,4 +191,5 @@ class smart_expense_tracker:
 
         
 a= smart_expense_tracker('expenses.csv')
-    
+
+print("Thank you for using the smart expense tracker")
