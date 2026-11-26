@@ -2,6 +2,8 @@
 run the py file by this command
 python filename.py
 
+<br>
+# smart tracker
 
 The Smart Expense Tracker is a Python-based data management and analytics project designed to help users record, manage, filter, and analyze their daily expenses.
 
